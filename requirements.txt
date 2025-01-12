@@ -11,6 +11,10 @@ dagshub
 fastapi
 uvicorn
 python-multipart
+jinja2
+starlette
+joblib
+dill
 
 
 # -e .
